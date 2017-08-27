@@ -1,3 +1,5 @@
+
+<img src="/imgs/300px-Tiger_Rank.jpeg" alt="Mountain View" style="width:150px;height:150px;">
 <h2>Requirements for the Bobcat Badge</h2>
 <ul>
   <li><a href="/#oath">The Scout Oath</a></li>
