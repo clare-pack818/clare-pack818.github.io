@@ -1,6 +1,6 @@
 <h2>Requirements for the Bobcat Badge</h2>
 <ul>
-  <li>The Scout Oath</li>
+  <li><a href="/#oath">The Scout Oath</a></li>
   <li>The Scout Law</li>
   <li>The Cub Scout Sign</li>
   <li>The Cub Scout Handshake</li>
