@@ -1,4 +1,4 @@
 name: Pack 818
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-permalink: /meeting/:year/:month/:day/:title
+permalink: /agendas/:year/:month/:day/:title
