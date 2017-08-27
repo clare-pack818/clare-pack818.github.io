@@ -4,7 +4,7 @@
   <li><a href="/#law">The Scout Law</a></li>
   <li>The Cub Scout Sign</li>
   <li>The Cub Scout Handshake</li>
-  <li>The Cub Scout Motto</li>
+  <li><a href="/#motto">The Cub Scout Motto</a></li>
   <li>The Cub Scout Salute</li>
   <li>Exercises in "How to Protect Your Children From Child Abuse:  A Parent's Guide"</li>
 </ul>
