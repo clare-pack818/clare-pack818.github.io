@@ -1,6 +1,6 @@
 
-
-<h2><img src="/imgs/bobcatemblemsmall.jpg" alt="Mountain View" style="float:left;width:150px;height:150px;">Requirements for the Bobcat Badge</h2>
+<img src="/imgs/bobcatemblemsmall.jpg" alt="Mountain View" style="width:150px;height:150px;">
+<h2>Requirements for the Bobcat Badge</h2>
 <ul>
   <li><a href="/#oath">The Scout Oath</a></li>
   <li><a href="/#law">The Scout Law</a></li>
