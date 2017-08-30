@@ -45,8 +45,9 @@ scouts:
     <tbody>
      {% for task in scout.tasks %}
      <tr>
+        <th scope="col">Backyard Jungle</th>
         {% for item in task %}
-        <td> {{ item }} </td>
+           <th scope="col">{{ item }}</th>
         {% endfor %}
      </tr>
      {% endfor %}
