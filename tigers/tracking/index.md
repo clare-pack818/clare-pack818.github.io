@@ -1,22 +1,29 @@
 ---
 layout: tiger
 title: Pack 818 - Claremont, CA
+
 scouts:
+
   - name: Ar
     bj1: X
     bj2: X
+    
   - name: Er
     bj1: X
     bj2: X
+    
   - name: Ev
     bj1: X
     bj2: X
+    
   - name: Ms
     bj1: X
     bj2: X
+    
   - name: Mt
     bj1: X
     bj2: X
+    
 ---
 
 {% for scout in page.scouts %}
