@@ -12,7 +12,7 @@ scouts:
 {% for name in page.scouts %}
 {{ name }}
     
-| Adventure | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|Adventure | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-------|--------|---------|---------|---------|---------|---------|---------|---------|
 | Backyard Jungle | | | | | | | | |
 | Games Tigers Play | | | | | | | | |
