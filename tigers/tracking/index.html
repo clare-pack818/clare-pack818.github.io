@@ -1,14 +1,14 @@
 ---
 layout: tiger
 title: Pack 818 - Claremont, CA
+columnHeaders: [1,2,3,4,5,6,7,8]
 
 scouts:
 
   - name: Ar
-    bjung: 
-    - t1: X
-    - t2: X
-    - t3: -
+    tasks:
+    - bjung: [Backyard Jungle,x,x,x,-,-,-,-,M] 
+      games: [Games Tigers Play,x,x,x,-,-,-,-,M]
     
   - name: Er
     bj1: X
@@ -42,5 +42,26 @@ scouts:
 | Tigers in the Wild | | | | | | | | |
 | Tiger-iffic | | | | | | | | |
 | Curiosity, Intrigue, <br>and Magical Mysteries | | | | | | | | |
+
+<table class="responsive-table table">
+    <thead>
+      <tr>
+        <th scope="col">Adventure</th>
+        {% for header in page.columnHeaders %}
+        <th scope="col">{{ header }}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+     {% for task in scout.tasks %}
+     <tr>
+        <th scope="col"> {{ task }}</th>
+        {% for item in task %}
+        <td data-title="{{ item }}"> {{ item }} </td>
+        {% endfor %}
+     </tr>
+     {% endfor %}
+    </tbody>
+</table>
 
 {% endfor %}
