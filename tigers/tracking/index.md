@@ -4,13 +4,13 @@ title: Pack 818 - Claremont, CA
 scouts:
   - name: Ar
     - bj1: X
-  - Er
+  - name: Er
     - bj1: X
-  - Ev
+  - name: Ev
     - bj1: O
-  - Ms
+  - name: Ms
     - bj1: X
-  - Mt
+  - name: Mt
     - bj1: Y
 ---
 
