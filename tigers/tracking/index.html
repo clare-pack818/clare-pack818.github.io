@@ -9,7 +9,7 @@ scouts:
 
   - name: Ar
     tasks:
-    - Backyard_Jungle: [K,x,x,x,-,-,-,-,M] 
+    - Backyard_Jungle: {K,x,x,x,-,-,-,-,M}
     - Games_Tigers_Play: [H,x,x,x,-,-,-,-,M]
     
   - name: Er
@@ -35,6 +35,7 @@ scouts:
 {{ scout.name }}
 
 <table>
+  
     <thead>
       <tr>
         <th scope="col">Adventure</th>
@@ -50,7 +51,7 @@ scouts:
         {% for item in task %}
           <td scope="col"> {{ item }} </td>
         {% endfor %}
-     </tr>
+      </tr>
      {% endfor %}
     </tbody>
   
