@@ -5,8 +5,10 @@ title: Pack 818 - Claremont, CA
 scouts:
 
   - name: Ar
-    bj1: X
-    bj2: X
+    bjung: 
+    - t1: X
+    - t2: X
+    - t3: -
     
   - name: Er
     bj1: X
@@ -32,7 +34,7 @@ scouts:
     
 |Adventure | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-------|--------|---------|---------|---------|---------|---------|---------|---------|
-| Backyard Jungle | {{ scout.bj1 }} | {{ scout.name }} | | | | | | |
+| Backyard Jungle | {% for task in scout.bjung %} {{ task }} | {% endfor %}
 | Games Tigers Play | | | | | | | | |
 | Duty to God | | | | | | | | |
 | Team Tiger | | | | | | | | |
