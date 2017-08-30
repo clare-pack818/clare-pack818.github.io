@@ -49,12 +49,13 @@ scouts:
      <tr>
         <th scope="row"> task[0] </th>
         {% for item in task %}
-          <td data-title="{{ exercise }}"> {{ item }} </td>
+          <td data-title="{{ item }}"> {{ task }} </td>
         {% endfor %}
      </tr>
      {% endfor %}
     </tbody>
   
 </table>
+<br>
 
 {% endfor %}
