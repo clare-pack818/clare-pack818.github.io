@@ -15,6 +15,7 @@ scouts:
 ---
 
 {% for scout in page.scouts %}
+
 {{ scout.name }}
     
 |Adventure | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
