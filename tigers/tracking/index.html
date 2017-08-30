@@ -39,20 +39,22 @@ scouts:
       <tr>
         <th scope="col">Adventure</th>
         {% for header in page.columnHeaders %}
-        <th scope="col">{{ header }}</th>
+          <th scope="col">{{ header }}</th>
         {% endfor %}
       </tr>
     </thead>
+  
     <tbody>
      {% for task in scout.tasks %}
      <tr>
-        <td scope="col">Backyard Jungle</td>
+        <th scope="row"> task[0] </th>
         {% for item in task %}
-           <td scope="col">{{ item }}</td>
+          <td data-title="{{ exercise }}"> {{ item }} </td>
         {% endfor %}
      </tr>
      {% endfor %}
     </tbody>
+  
 </table>
 
 {% endfor %}
