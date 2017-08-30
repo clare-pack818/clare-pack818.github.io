@@ -25,7 +25,7 @@ scouts:
     
 |Adventure | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-------|--------|---------|---------|---------|---------|---------|---------|---------|
-| Backyard Jungle | {{ scout.bj1 }} | | | | | | | |
+| Backyard Jungle | {{ scout.task }} | | | | | | | |
 | Games Tigers Play | | | | | | | | |
 | Duty to God | | | | | | | | |
 | Team Tiger | | | | | | | | |
