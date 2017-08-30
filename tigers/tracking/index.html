@@ -47,7 +47,7 @@ scouts:
     <tbody>
      {% for task in scout.tasks %}
      <tr>
-        <th scope="row"> task[0] </th>
+        <th scope="row"> task.title </th>
         {% for item in task %}
           <td data-title="{{ item }}"> {{ task }} </td>
         {% endfor %}
