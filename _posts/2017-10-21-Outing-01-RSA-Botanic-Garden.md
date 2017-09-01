@@ -1,4 +1,4 @@
-The Rancho Santa Ana Botanical Garden hosts its annual Fall Planting Day, with FREE Admission.  The Garden is open from 8am - 5pm.  
+The Rancho Santa Ana Botanical Garden hosts its annual Fall Planting Day (free Admission).  The Garden is open from 8am - 5pm.  
 
 We will walk through the gardens looking to identify 2 birds, pick a 1-foot square area and record what you find, and listen for sounds.
 
