@@ -12,14 +12,15 @@ Overview
     </ul>
   </li>
 <li>Den Rules</li>
+<li>Mirror Game</li>
 <li>Shoe Game</li>
 <li>Den Yell</li>
 <li>Closing</li>
 <li>Coming Up
   <ul>
     <li>Backyard Jungle</li>
-    <li>10/5 Pack Meeting</li>
-    <li>Next Den Meeting:  10/12</li>
+    <li>Outdoor Concert:  9/21 Levitt Lawn, Scripps College</li>
+    <li>Next Den Meeting:  10/5</li>
     </ul>
   </li>
 </ul>
