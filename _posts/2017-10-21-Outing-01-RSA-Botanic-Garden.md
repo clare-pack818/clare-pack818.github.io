@@ -6,5 +6,5 @@ Requirements Completed:
 <ul>
 <li>Backyard Jungle Requirement 1 (1-foot hike and list what you find)</li>
 <li>Backyard Jungle Requirement 2 (Point to 2 different Birds)</li>
-<li>Backyard Jungle Adventure Requirement 5 (go for a walk and pick out 2 sounds)</li>
+<li>Backyard Jungle Requirement 5 (go for a walk and pick out 2 sounds)</li>
 </ul>
