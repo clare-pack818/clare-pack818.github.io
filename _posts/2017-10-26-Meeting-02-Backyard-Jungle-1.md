@@ -1,5 +1,5 @@
-Build a Bird House
-Discuss RSABG trip
+Build a Bird House<br>
+Recap/discuss RSABG trip
 
 Requirements Completed:
 <ul>
