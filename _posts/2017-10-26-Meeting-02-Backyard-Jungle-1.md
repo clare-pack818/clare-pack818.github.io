@@ -1,4 +1,5 @@
 Build a Bird House
+Discuss RSABG trip
 
 Requirements Completed:
 <ul>
