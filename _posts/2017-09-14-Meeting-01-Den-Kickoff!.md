@@ -1,7 +1,7 @@
 
 Overview
 <ul>
-<li>Gathering</li>
+<li>Gathering: swish or ping pong soccer</li>
 <li>Introductions</li>
 <li>Opening:  Scout Oath</li>
 <li>Talk Time
