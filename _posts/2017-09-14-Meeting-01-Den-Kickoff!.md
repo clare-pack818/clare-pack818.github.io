@@ -7,7 +7,7 @@ Overview
 <li>Talk Time
   <ul>
     <li>Advancement/Bobcat Badge</li>
-    <li>Achievement Stick</li>
+    <li>Coup Stick</li>
     <li>Denner</li>
     </ul>
   </li>
