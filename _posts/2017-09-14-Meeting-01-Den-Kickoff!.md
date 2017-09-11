@@ -8,7 +8,7 @@ Overview
   <ul>
     <li>Advancement/Bobcat Badge</li>
     <li>Achievement Stick</li>
-    <li>Denner & Assistant Denner</li>
+    <li>Denner</li>
     </ul>
   </li>
 <li>Den Rules</li>
