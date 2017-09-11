@@ -18,9 +18,8 @@ Overview
 <li>Closing</li>
 <li>Coming Up
   <ul>
-    <li>Backyard Jungle</li>
-    <li>Outdoor Concert:  9/21 Levitt Lawn, Scripps College</li>
-    <li>Next Den Meeting:  10/5</li>
+    <li>Outings:  10/8 , 10/21 Botanical Gardens</li>
+    <li>Next Den Meeting:  10/26</li>
     </ul>
   </li>
 </ul>
