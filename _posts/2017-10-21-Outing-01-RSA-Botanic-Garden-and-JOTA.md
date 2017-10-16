@@ -9,7 +9,8 @@ Requirements Completed:
 <li>Backyard Jungle Requirement 5 (go for a walk and pick out 2 sounds)</li>
 </ul>
 
-This is also the day our pack can participate in the Jamboree Over the Air (JOTA) at TBI in Pomona.  
+## JOTA
+This is also the day our pack can participate in the Jamboree Over the Air (JOTA) at TBI in Pomona, it is from 10am - 12 noon.
 Requirements completed (on top of a cool JOTA patch):
 * Requirement 8 of Family Stories Adventure
 
