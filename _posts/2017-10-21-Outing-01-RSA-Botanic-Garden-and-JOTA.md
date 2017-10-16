@@ -25,6 +25,5 @@ Other Family Stories adventure requirements can be done as well if you have your
 
 
 ![SayHello](/imgs/21WaystoSayHello_.jpg)
-Format: ![Alt Text](url)
 
 
