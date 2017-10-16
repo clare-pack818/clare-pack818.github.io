@@ -1,3 +1,4 @@
+## RSABG
 The Rancho Santa Ana Botanical Garden hosts its annual Fall Planting Day (free Admission).  We will be meeting at the front entrance at 8:30am, bright and early so we can see some birds (and other wildlife)!
 
 We will walk through the gardens looking to identify 2 birds, pick a 1-foot square area and record what you find, and listen for sounds.  For those that were unable to attend the Eaton Canyon Hike, we will also review the outdoor code and leave no trace principles.  
