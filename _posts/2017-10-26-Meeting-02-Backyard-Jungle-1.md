@@ -1,7 +1,7 @@
-Build a Bird House<br>
-Recap/discuss RSABG trip
-Add to the den doodle (for loops awarded)
-Bobcat requirements/progress update
+Build a Bird House<br>  
+Recap/discuss RSABG trip  
+Add to the den doodle (for loops awarded)  
+Bobcat requirements/progress update  
 
 
 Requirements Completed:
