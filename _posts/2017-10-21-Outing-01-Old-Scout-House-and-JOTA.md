@@ -1,9 +1,9 @@
 ## Higginbotham Park Hike
-We will be doing a very short hike to the remains of an old scout house at Higginbotham Park.  It is really short, very easy, no more than 10 minutes each way.  Along the trail, we will look to identify 2 birds (there are usually woodpeckers here), listen for animal or other nature sounds, and pick a 1-foot square area and record what you find.  We will also review the outdoor code and leave no trace principles. 
+We will be doing a very short hike to the remains of an old scout house at Higginbotham Park.  It is really short, very easy, no more than 10 minutes each way.  Along the trail, we will look to identify 2 birds (there are usually woodpeckers here), listen for animal or other nature sounds, and pick a 1-foot square area and record what you find.  We will also review the outdoor code and leave no trace principles. Scouts don't need to be in uniform, tiger hat is sufficient.
 
 Please have your scout bring their tiger books as well as a notepad or piece of paper and something to write with so they can record what they find in their 1-foot square.  It is a good idea to review the 6 hiking essentials prior to leaving as well to see how many they can recall.
 
-Meet at Higginbotham park at 9:00 am (parking is available along the street that fronts the park, Mt. Carmel Drive.  [Google Maps Link](https://www.google.com/maps/place/Higginbotham+Park/@34.1274015,-117.727046,17z/data=!4m5!3m4!1s0x80c3303b302f22f7:0xcd87a9d22dc23ab9!8m2!3d34.127366!4d-117.7249646)
+Meet at Higginbotham park (600 Mt Carmel Drive) at 9:00 am (parking is available along the street that fronts the park, Mt. Carmel Drive).  [Google Maps Link](https://www.google.com/maps/place/Higginbotham+Park/@34.1274015,-117.727046,17z/data=!4m5!3m4!1s0x80c3303b302f22f7:0xcd87a9d22dc23ab9!8m2!3d34.127366!4d-117.7249646)
 
 Requirements Completed:
 <ul>
