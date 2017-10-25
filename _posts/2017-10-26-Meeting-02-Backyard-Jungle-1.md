@@ -1,7 +1,9 @@
-Build a Bird House<br>  
-Recap/discuss RSABG trip  
+Recap/discuss higginbotham hike
 Add to the den doodle (for loops awarded)  
 Bobcat requirements/progress update  
+Famuly Stories:  scouts working on the family stories adventure will have time to share something they learned about their family
+Activity:  Build a (milk carton) birdhouse  
+Next outing:  11/4 pomona college organic farm, 1pm
 
 
 Requirements Completed:
