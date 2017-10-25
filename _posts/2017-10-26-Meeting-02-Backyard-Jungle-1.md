@@ -1,4 +1,4 @@
-Recap/discuss higginbotham hike
+Recap/discuss higginbotham hike  
 Add to the den doodle (for loops awarded)  
 Bobcat requirements/progress update  
 Family Stories:  scouts working on the family stories adventure can share something they learned about their family  
